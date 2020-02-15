@@ -1,0 +1,24 @@
+{
+	"name": "cli-should-cancel",
+	"version": "0.0.1",
+	"description": "Graceful cancellation message of a Node.js CLI when you press COMMAND (⌘) + C",
+	"license": "MIT",
+	"repository": "ahmadawais/cli-should-cancel",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cli-should-cancel",
+		"Ahmad Awais",
+		"ahmadawais"
+	],
+	"scripts": {
+		"test": "node test.js"
+	}
+}
