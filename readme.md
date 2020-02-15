@@ -22,7 +22,13 @@ npm install cli-should-cancel
 ## Usage
 
 ```js
-const cliShouldCancel = require('cli-should-cancel');
+const shouldCancel = require('cli-should-cancel');
+
+// Say you asked user for a response but user canceled the CLI execution.
+const response = await getUserResponse();
+
+shouldCancel(response);
+// ❯ Cancelled!
 ```
 
 <br>

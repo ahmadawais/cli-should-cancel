@@ -17,8 +17,5 @@
 		"cli-should-cancel",
 		"Ahmad Awais",
 		"ahmadawais"
-	],
-	"scripts": {
-		"test": "node test.js"
-	}
+	]
 }
