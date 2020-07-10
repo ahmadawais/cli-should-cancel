@@ -17,5 +17,8 @@
 		"cli-should-cancel",
 		"Ahmad Awais",
 		"ahmadawais"
-	]
+	],
+	"dependencies": {
+		"@scarf/scarf": "^1.0.6"
+	}
 }
