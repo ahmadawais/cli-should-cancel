@@ -1,6 +1,6 @@
 {
 	"name": "cli-should-cancel",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Graceful cancellation message of a Node.js CLI when you press COMMAND (⌘) + C",
 	"license": "MIT",
 	"repository": "ahmadawais/cli-should-cancel",
