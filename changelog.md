@@ -45,6 +45,21 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
+### RELEASE: [v2.1.0](https://github.com/ahmadawais/cli-should-cancel/compare/v2.0.0...v2.1.0)
+
+![🐛 FIX:](https://img.shields.io/badge/🐛-FIX-gray.svg?colorA=BC4C00&colorB=BC4C00&style=for-the-badge)
+
+> 🐛 Chalk [`3344499`](https://github.com/ahmadawais/cli-should-cancel/commit/3344499f3a511fa13f730ae3555b64f89c9ac1e7)
+
+> 🐛 Chalk [`b990f0a`](https://github.com/ahmadawais/cli-should-cancel/commit/b990f0af8dc6f41bec2751934e7931bc2ef36737)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
 ### RELEASE: [v2.0.0](https://github.com/ahmadawais/cli-should-cancel/compare/v1.0.3...v2.0.0)
 
 ![BREAKING](https://img.shields.io/badge/‼️-BREAKING%20CHANGES-gray.svg?colorA=CF222F&colorB=CF222F&style=for-the-badge)
@@ -52,6 +67,10 @@ All notable changes in this project's [released versions](../../releases) are do
 > ‼️ Require no longer supported moving to ESM based syntax [`3c09ca7`](https://github.com/ahmadawais/cli-should-cancel/commit/3c09ca73f23d32e7579932b4e440116ed1ac3585)
 
 > ‼️ Require no longer supported moving to ESM based syntax [`5881685`](https://github.com/ahmadawais/cli-should-cancel/commit/58816851cf035162f8f3d373e2789528319aba15)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Changelog [`0bbce1b`](https://github.com/ahmadawais/cli-should-cancel/commit/0bbce1b0170402b53233cf659a7b9d352996e379)
 
 <br>
 
