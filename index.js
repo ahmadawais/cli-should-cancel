@@ -3,8 +3,8 @@
 /**
  * Cli Should Cancel.
  */
-import { bold } from "chalk";
-const yellow = bold.yellow;
+import chalk from "chalk";
+const yellow = chalk.bold.yellow;
 
 // Exit gracefully if user trying to cancel.
 export default async (action) => {
