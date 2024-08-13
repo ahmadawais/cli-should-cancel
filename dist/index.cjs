@@ -1,0 +1,3 @@
+var c=Object.defineProperty;var t=Object.getOwnPropertyDescriptor;var f=Object.getOwnPropertyNames;var i=Object.prototype.hasOwnProperty;var r=(e,o)=>{for(var n in o)c(e,n,{get:o[n],enumerable:!0})},a=(e,o,n,d)=>{if(o&&typeof o=="object"||typeof o=="function")for(let l of f(o))!i.call(e,l)&&l!==n&&c(e,l,{get:()=>o[l],enumerable:!(d=t(o,l))||d.enumerable});return e};var p=e=>a(c({},"__esModule",{value:!0}),e);var u={};r(u,{default:()=>m});module.exports=p(u);var s=require("chalk"),y=s.bold.yellow,m=async e=>{e===void 0&&(console.log(y(`\u276F Cancelled!
+`)),process.exit(0))};
+//# sourceMappingURL=index.cjs.map
