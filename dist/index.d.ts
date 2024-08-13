@@ -1,8 +1,8 @@
-import { bold } from 'chalk';
+import chalk from 'chalk';
 
 /* CLI SHOULD CANCEL */
 
-const yellow = bold.yellow;
+const yellow = chalk.bold.yellow;
 
 // Exit gracefully if user trying to cancel.
 var index = async (action) => {
